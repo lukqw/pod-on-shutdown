@@ -1,2 +1,0 @@
-[localstack.extensions]
-pod-on-shutdown = pod_on_shutdown.extension:PodOnShutdown
