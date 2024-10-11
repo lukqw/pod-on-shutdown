@@ -1,0 +1,5 @@
+[distutils.commands]
+plugins = plux.build.setuptools:plugins
+
+[egg_info.writers]
+plux.json = plux.build.setuptools:load_plux_entrypoints

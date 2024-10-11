@@ -1,0 +1,3 @@
+
+[dev]
+localstack-core>=1.0

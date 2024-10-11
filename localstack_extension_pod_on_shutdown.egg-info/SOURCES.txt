@@ -1,0 +1,12 @@
+README.md
+setup.cfg
+setup.py
+localstack_extension_pod_on_shutdown.egg-info/PKG-INFO
+localstack_extension_pod_on_shutdown.egg-info/SOURCES.txt
+localstack_extension_pod_on_shutdown.egg-info/dependency_links.txt
+localstack_extension_pod_on_shutdown.egg-info/entry_points.txt
+localstack_extension_pod_on_shutdown.egg-info/not-zip-safe
+localstack_extension_pod_on_shutdown.egg-info/requires.txt
+localstack_extension_pod_on_shutdown.egg-info/top_level.txt
+pod_on_shutdown/__init__.py
+pod_on_shutdown/extension.py
